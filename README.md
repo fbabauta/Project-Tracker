@@ -62,7 +62,9 @@
 
 3. Use jQuery event delegation to attach an event listener to each of those buttons so that when clicked, the parent `<tr>` element will be removed from the page.
 
+![Screenshot 2020-11-01 234333](https://user-images.githubusercontent.com/70370805/97853392-24a1ee00-1c9c-11eb-9a40-0c262206f249.jpg)
 
+Made with: Bootstrap, jQuery, jQueryUI, Moment, and Google Fonts. 
 
 
 
